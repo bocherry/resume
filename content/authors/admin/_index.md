@@ -44,9 +44,9 @@ profiles:
     url: https://orcid.org/0009-0000-0347-5632
 
 interests:
+  - Database Communication Smells
   - Static Analysis
   - Document-Oriented Datastores
-  - Database Communication Smells
 
 education:
   # - area: PhD Artificial Intelligence
@@ -69,8 +69,8 @@ education:
       - Software Evolution
       - Code Quality
       - Software Testing
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc Computer Science
+    institution: University of Namur
     date_start: 2015-09-15
     date_end: 2019-07-31
     summary: |
@@ -178,4 +178,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
+I am a PhD student in Software Engineering at the University of Namur. My research include database communication smells, static analysis and document-oriented datastores.
