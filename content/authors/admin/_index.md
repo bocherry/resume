@@ -37,7 +37,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/bocherry/
   - icon: brands/linkedin
-    url: www.linkedin.com/in/boris-c-250884b7
+    url: https://www.linkedin.com/in/boris-c-250884b7
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=Ow1ExnoAAAAJ&hl=en
   - icon: academicons/orcid
