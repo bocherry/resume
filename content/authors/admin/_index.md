@@ -111,6 +111,11 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
+      - name: Scala
+        description: ''
+        percent: 40
+        icon: code-bracket
+
       - name: CodeQL
         description: ''
         percent: 90
@@ -139,6 +144,7 @@ skills:
       - name: Dogs 🐶
         description: ''
         percent: 100
+      - name: Videogames 🕹️
 
 languages:
   - name: French
