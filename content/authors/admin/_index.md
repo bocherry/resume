@@ -61,7 +61,7 @@ education:
   - area: MSc Computer Science, specialised in Software Engineering
     institution: University of Namur
     date_start: 2018-09-15
-    date_end: 2020-07-30
+    date_end: 2020-06-30
     summary: |
       Distinction
 
@@ -72,7 +72,7 @@ education:
   - area: BSc Computer Science
     institution: University of Namur
     date_start: 2015-09-15
-    date_end: 2019-07-31
+    date_end: 2019-06-30
     summary: |
       Satisfaction
       
