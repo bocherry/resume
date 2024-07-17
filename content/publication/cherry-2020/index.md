@@ -32,4 +32,5 @@ tags:
 - Search-based crash reproduction
 - Software measurement
 url_pdf: https://ceur-ws.org/Vol-2912/paper7.pdf
+url_slides: https://docs.google.com/presentation/d/1Th4Edxva-xqgxQcAaWrVyP-S_OP-y-UI/edit?usp=sharing&ouid=112930139627156301244&rtpof=true&sd=true
 ---

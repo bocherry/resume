@@ -14,4 +14,7 @@ publication_types:
 publication: '*2022 IEEE International Conference on Software Analysis, Evolution
   and Reengineering (SANER 2022)*'
 doi: 10.1109/saner53432.2022.00111
+url_code: https://github.com/bocherry/saner22-online-appendix
+url_video: https://www.youtube.com/watch?v=kWZAc6bc6uc
+url_slides: https://docs.google.com/presentation/d/1RLWZVlgZlAPry0botERnrd894Ge4s7pZrobd6_fIdhA/edit?usp=sharing
 ---
